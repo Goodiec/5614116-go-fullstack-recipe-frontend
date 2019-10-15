@@ -63,5 +63,3 @@ typings/
 # IDE files
 .idea
 
-# Test backend
-backend
